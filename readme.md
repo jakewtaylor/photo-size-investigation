@@ -1,5 +1,9 @@
 # Photo Size Investigation
 
+Here's a selection of images I've taken through the app at varying widths and qualities. The resulting photos are attached.
+
+> **The photos in this table are just thumbnails - click them to view full size!**
+
 | Photo                                         | Width (px) | Quality (0 - 1) | Size (kb) |
 | --------------------------------------------- | ---------- | --------------- | --------- |
 | <img src="photos/IMG_2165.JPG" width="100" /> | 100        | 0.1             | 9         |

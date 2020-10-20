@@ -2,6 +2,13 @@
 
 Here's a selection of images I've taken through the app at varying widths and qualities. The resulting photos are attached.
 
+### Results
+
+- The smallest file size I got was 9kb, but that's at 100px wide and 0.1 quality - I would imagine that's unusable.
+- Our current settings in app are 1024px wide at 0.8 quality, which results in a usable file at 261kb
+- 1024px at 0.5 quality outputs a file of 162kb, which looks fit for use to me.
+  - a 512px photo at 0.5 quality is only 50kb, **maybe somewhere between these 2 would be a good range**
+
 > **The photos in this table are just thumbnails - click them to view full size!**
 
 | Photo                                         | Width (px) | Quality (0 - 1) | Size (kb) |

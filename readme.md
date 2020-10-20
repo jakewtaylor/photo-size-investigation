@@ -13,6 +13,8 @@ Here's a selection of images I've taken through the app at varying widths and qu
 
 | Photo                                         | Width (px) | Quality (0 - 1) | Size (kb) |
 | --------------------------------------------- | ---------- | --------------- | --------- |
+| <img src="photos/IMG_2177.JPG" width="100" /> | 512        | 0.5             | 82        |
+| <img src="photos/IMG_2178.JPG" width="100" /> | 768        | 0.6             | 201       |
 | <img src="photos/IMG_2165.JPG" width="100" /> | 100        | 0.1             | 9         |
 | <img src="photos/IMG_2166.JPG" width="100" /> | 512        | 0.1             | 31        |
 | <img src="photos/IMG_2167.JPG" width="100" /> | 1024       | 0.1             | 86        |

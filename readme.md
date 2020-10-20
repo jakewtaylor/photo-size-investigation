@@ -21,7 +21,7 @@ Here's a selection of images I've taken through the app at varying widths and qu
 | <img src="photos/IMG_2173.JPG" width="100" /> | 1024       | 0.5             | 162       |
 | <img src="photos/IMG_2174.JPG" width="100" /> | 100        | 0.8             | 12        |
 | <img src="photos/IMG_2175.JPG" width="100" /> | 512        | 0.8             | 72        |
-| <img src="photos/IMG_2175.JPG" width="100" /> | 1024       | 0.8             | 261       |
+| <img src="photos/IMG_2176.JPG" width="100" /> | 1024       | 0.8             | 261       |
 | <img src="photos/IMG_2168.JPG" width="100" /> | 100        | 1               | 13        |
 | <img src="photos/IMG_2169.JPG" width="100" /> | 512        | 1               | 85        |
 | <img src="photos/IMG_2170.JPG" width="100" /> | 1024       | 1               | 295       |
